@@ -13,3 +13,4 @@ body, html {
     height: 100%;
     background: linear-gradient(45deg, #ff0084, #ffbf00, #00ffcc);
     animation: changeMosaic 10s linear infinite;
+}
